@@ -17,9 +17,10 @@ public final class HSMConnection {
     final int connectTimeout;
     final int receiveTimeout;
 
-    public HSMConnection(String host, int port){
-        this.host = host;
-        this.port = port;
+
+    public HSMConnection(){
+        this.host = "10.10.20.15";
+        this.port = 5100;
         this.connectTimeout = 1000;
         this.receiveTimeout = 20000;
     }

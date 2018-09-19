@@ -43,7 +43,7 @@ public class Decrypt extends HsmMsg {
     }
 
 
-    public byte[] pack()throws IOException{
+    public byte[] pack()throws IOException {
 
         String keySpec;
         if(key == null || key.isEmpty()){
@@ -64,7 +64,7 @@ public class Decrypt extends HsmMsg {
 
         String request = header + body;
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
-        baos.write(DatatypeConverter.parseHexBinary(request));
+        baos.write(hexBinaryConverter.parseHexBinary(request));
 
         byte[] request_data = baos.toByteArray();
         ByteArrayOutputStream raw_data = new ByteArrayOutputStream();

@@ -21,7 +21,7 @@ public class EncryptTest {
         byte[] request = encrypt.pack();
 
         System.out.println(Arrays.toString(request));
-        HSMConnection hsmConnection = new HSMConnection("34.241.226.196", 6060);
+        HSMConnection hsmConnection = new HSMConnection();
         byte[] recvd = hsmConnection.send_recv(request);
         System.out.println(Arrays.toString(recvd));
 
