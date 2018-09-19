@@ -21,7 +21,7 @@ public class GenerateRandomKeyTest {
         byte[] request = generateRandomKey.pack();
 
         System.out.println(Arrays.toString(request));
-        HSMConnection hsmConnection = new HSMConnection("34.241.226.196", 6060);
+        HSMConnection hsmConnection = new HSMConnection("10.10.20.15", 5100);
         byte[] recvd = hsmConnection.send_recv(request);
         System.out.println(Arrays.toString(recvd));
 

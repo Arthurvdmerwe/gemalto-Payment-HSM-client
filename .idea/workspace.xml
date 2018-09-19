@@ -1,52 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd504a6a-b007-4aab-91b0-5507a3d01342" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gemalto-hsm-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gemalto-hsm-client.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fd504a6a-b007-4aab-91b0-5507a3d01342" name="Default" comment="added local files for intellij and gradle.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/TestDriver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/connection/HSMConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/Decrypt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/Encrypt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/ExportKTMKey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/ExportKey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/ExportMPKKey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/ExportPPKKey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/GenerateCSCK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/GenerateCVVK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/GenerateDPK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/GenerateKI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/GenerateKTM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/GenerateMPK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/GeneratePIN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/GeneratePPK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/GeneratePVK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/GenerateRandomKey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/HSMStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/HsmMsg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/messages/KeyType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/avantir/gemalto/hsm/client/utils/HexBinaryConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/avantir/gemalto/hsm/client/DecryptTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/avantir/gemalto/hsm/client/EncryptTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/avantir/gemalto/hsm/client/ExportKTMKeyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/avantir/gemalto/hsm/client/ExportKeyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/avantir/gemalto/hsm/client/ExportMPKKeyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/avantir/gemalto/hsm/client/ExportPPKKeyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/avantir/gemalto/hsm/client/GenerateDPKTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/avantir/gemalto/hsm/client/GenerateKITest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/avantir/gemalto/hsm/client/GenerateKTMTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/avantir/gemalto/hsm/client/GenerateMPKTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/avantir/gemalto/hsm/client/GeneratePPKTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/avantir/gemalto/hsm/client/GenerateRandomKeyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/avantir/gemalto/hsm/client/HSMStatusTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GenerateRandomKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GenerateRandomKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/HSMStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/HSMStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateMPKTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateMPKTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateRandomKeyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateRandomKeyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/HSMStatusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/HSMStatusTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -58,7 +19,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/gemalto_hsm_client$HSMStatusTest_testHSMStatus.ic" NAME="HSMStatusTest.testHSMStatus Coverage Results" MODIFIED="1535187679927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/gemalto_hsm_client$HSMStatusTest.ic" NAME="HSMStatusTest Coverage Results" MODIFIED="1537235202540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.avantir.gemalto.hsm.client.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/gemalto_hsm_client$HSMStatusTest_testHSMStatus.ic" NAME="HSMStatusTest.testHSMStatus Coverage Results" MODIFIED="1537230218241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.avantir.gemalto.hsm.client.*</FILTER>
     </SUITE>
   </component>
@@ -124,39 +88,73 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="10" />
+          <entry key="java" value="31" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="31" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="54" />
+          <entry key="txt" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="54" />
+          <entry key="PLAIN_TEXT" value="91" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/HSMStatusTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="374">
+              <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/HSMStatus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1173">
+              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#796#797#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/ExportKeyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-270">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -164,8 +162,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/connection/HSMConnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="11" selection-start-column="8" selection-end-column="11" />
+            <state relative-caret-position="172">
+              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -174,19 +172,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/Decrypt.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateDPKTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/HsmMsg.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="527">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -195,10 +184,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/TestDriver.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateRandomKeyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            <state relative-caret-position="315">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GenerateRandomKey.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -225,6 +223,11 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Arthur Van Der Merwe" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -636,7 +639,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GenerateCSCK.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GenerateCVVK.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GeneratePIN.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/HSMStatus.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/utils/HexBinaryConverter.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateKTMTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateKITest.java" />
@@ -651,11 +653,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GenerateKTM.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GenerateKI.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GenerateDPK.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateRandomKeyTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/DecryptTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/Decrypt.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/HSMStatusTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GenerateRandomKey.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/Encrypt.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/EncryptTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/ExportKTM.java" />
@@ -663,12 +662,16 @@
         <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/ExportKTMKey.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GenerateMPK.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/ExportMPKKey.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateMPKTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/ExportMPKKeyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/ExportKey.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/ExportKTMKeyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/ExportPPKKey.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/ExportPPKKeyTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/HSMStatusTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateMPKTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateRandomKeyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GenerateRandomKey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/HSMStatus.java" />
       </list>
     </option>
   </component>
@@ -679,10 +682,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2987" />
-    <option name="y" value="-13" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="3603" />
+    <option name="y" value="-19" />
+    <option name="width" value="968" />
+    <option name="height" value="528" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -728,6 +731,24 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gemalto-hsm-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gemalto-hsm-client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="messages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gemalto-hsm-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gemalto-hsm-client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gemalto-hsm-client" type="b2602c69:ProjectViewProjectNode" />
@@ -797,7 +818,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537230094784" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537326314195" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -821,7 +842,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.GenerateRandomKeyTest.testGenerateRandomKey">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -850,6 +871,72 @@
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
+    <configuration name="GenerateMPKTest.testGenerateMPK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gemalto-hsm-client_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.avantir.gemalto.hsm.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.avantir.gemalto.hsm.client" />
+      <option name="MAIN_CLASS_NAME" value="com.avantir.gemalto.hsm.client.GenerateMPKTest" />
+      <option name="METHOD_NAME" value="testGenerateMPK" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateRandomKeyTest.testGenerateRandomKey" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gemalto-hsm-client_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.avantir.gemalto.hsm.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.avantir.gemalto.hsm.client" />
+      <option name="MAIN_CLASS_NAME" value="com.avantir.gemalto.hsm.client.GenerateRandomKeyTest" />
+      <option name="METHOD_NAME" value="testGenerateRandomKey" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HSMStatusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gemalto-hsm-client_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.avantir.gemalto.hsm.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.avantir.gemalto.hsm.client" />
+      <option name="MAIN_CLASS_NAME" value="com.avantir.gemalto.hsm.client.HSMStatusTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HSMStatusTest.testHSMStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gemalto-hsm-client_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.avantir.gemalto.hsm.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.avantir.gemalto.hsm.client" />
+      <option name="MAIN_CLASS_NAME" value="com.avantir.gemalto.hsm.client.HSMStatusTest" />
+      <option name="METHOD_NAME" value="testHSMStatus" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -873,6 +960,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Gradle.GradleRun" />
+      <item itemvalue="JUnit.HSMStatusTest.testHSMStatus" />
+      <item itemvalue="JUnit.HSMStatusTest" />
+      <item itemvalue="JUnit.GenerateMPKTest.testGenerateMPK" />
+      <item itemvalue="JUnit.GenerateRandomKeyTest.testGenerateRandomKey" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GenerateRandomKeyTest.testGenerateRandomKey" />
+        <item itemvalue="JUnit.HSMStatusTest.testHSMStatus" />
+        <item itemvalue="JUnit.GenerateMPKTest.testGenerateMPK" />
+        <item itemvalue="JUnit.HSMStatusTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -886,50 +988,58 @@
       <updated>1533999076114</updated>
       <workItem from="1537166947888" duration="1213000" />
       <workItem from="1537224269419" duration="1285000" />
-      <workItem from="1537226595103" duration="953000" />
+      <workItem from="1537226595103" duration="5199000" />
     </task>
+    <task id="LOCAL-00001" summary="added local files for intellij and gradle.">
+      <created>1537230166035</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537230166035</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GenerateMPKTest_testGenerateMPK - 2018.09.09 at 17h 14m 26s.xml">
+    <history-entry file="HSMStatusTest_testHSMStatus - 2018.09.19 at 11h 44m 15s.xml">
+      <configuration name="HSMStatusTest.testHSMStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HSMStatusTest_testHSMStatus - 2018.09.19 at 11h 44m 59s.xml">
+      <configuration name="HSMStatusTest.testHSMStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GenerateMPKTest_testGenerateMPK - 2018.09.19 at 11h 46m 03s.xml">
       <configuration name="GenerateMPKTest.testGenerateMPK" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExportMPKKeyTest_testExportKeyUnderHostKey - 2018.09.09 at 17h 14m 56s.xml">
-      <configuration name="ExportMPKKeyTest.testExportKeyUnderHostKey" configurationId="JUnit" />
+    <history-entry file="GenerateMPKTest_testGenerateMPK - 2018.09.19 at 11h 46m 37s.xml">
+      <configuration name="GenerateMPKTest.testGenerateMPK" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExportMPKKeyTest_testExportKeyUnderHostKey - 2018.09.09 at 17h 16m 59s.xml">
-      <configuration name="ExportMPKKeyTest.testExportKeyUnderHostKey" configurationId="JUnit" />
+    <history-entry file="GenerateRandomKeyTest_testGenerateRandomKey - 2018.09.19 at 11h 47m 16s.xml">
+      <configuration name="GenerateRandomKeyTest.testGenerateRandomKey" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExportKTMKeyTest_testExportKeyUnderHostKey - 2018.09.09 at 17h 19m 33s.xml">
-      <configuration name="ExportKTMKeyTest.testExportKeyUnderHostKey" configurationId="JUnit" />
+    <history-entry file="GenerateRandomKeyTest_testGenerateRandomKey - 2018.09.19 at 11h 48m 06s.xml">
+      <configuration name="GenerateRandomKeyTest.testGenerateRandomKey" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GenerateKTMTest_testGenerateTMK - 2018.09.09 at 17h 23m 50s.xml">
-      <configuration name="GenerateKTMTest.testGenerateTMK" configurationId="JUnit" />
+    <history-entry file="GenerateRandomKeyTest_testGenerateRandomKey - 2018.09.19 at 11h 49m 21s.xml">
+      <configuration name="GenerateRandomKeyTest.testGenerateRandomKey" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExportKTMKeyTest_testExportKeyUnderHostKey - 2018.09.09 at 17h 25m 36s.xml">
-      <configuration name="ExportKTMKeyTest.testExportKeyUnderHostKey" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ExportKTMKeyTest_testExportKeyUnderHostKey - 2018.09.09 at 17h 25m 46s.xml">
-      <configuration name="ExportKTMKeyTest.testExportKeyUnderHostKey" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GeneratePPKTest_testGeneratePPK - 2018.09.09 at 19h 37m 39s.xml">
-      <configuration name="GeneratePPKTest.testGeneratePPK" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ExportPPKKeyTest_testExportKeyUnderHostKey - 2018.09.09 at 19h 37m 55s.xml">
-      <configuration name="ExportPPKKeyTest.testExportKeyUnderHostKey" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HSMStatusTest_testHSMStatus - 2018.09.10 at 19h 13m 46s.xml">
+    <history-entry file="HSMStatusTest_testHSMStatus - 2018.09.19 at 12h 56m 32s.xml">
       <configuration name="HSMStatusTest.testHSMStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HSMStatusTest_testHSMStatus - 2018.09.19 at 12h 59m 16s.xml">
+      <configuration name="HSMStatusTest.testHSMStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GenerateRandomKeyTest_testGenerateRandomKey - 2018.09.19 at 13h 03m 36s.xml">
+      <configuration name="GenerateRandomKeyTest.testGenerateRandomKey" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3451000" />
+    <option name="totallyTimeSpent" value="7697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2987" y="-13" width="1946" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18550107" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18550107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -938,15 +1048,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3311111" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.51520914" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.2711111" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.48333332" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.58555555" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.3311111" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.5144445" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.20111111" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
@@ -959,50 +1069,73 @@
       <window_info anchor="right" id="Gradle" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32984293" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.13859275" />
       <window_info anchor="right" id="Database" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added local files for intellij and gradle." />
+    <option name="LAST_COMMIT_MESSAGE" value="added local files for intellij and gradle." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/HSMStatus.java</url>
-          <line>60</line>
-          <properties />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/Encrypt.java</url>
           <line>66</line>
           <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.xml.bind/javax/xml/bind/DatatypeConverter.java</url>
+          <line>355</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateMPKTest.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GenerateRandomKey.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/HSMStatus.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="responseData[6]" />
+        <watch expression="this" />
+        <watch expression="fieldLengthLen" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GenerateZPK.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GeneratePINTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GenerateCVVK.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/HSMStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1146">
-          <caret line="110" column="76" selection-start-line="110" selection-start-column="63" selection-end-line="110" selection-end-column="76" />
         </state>
       </provider>
     </entry>
@@ -1029,13 +1162,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/KeyFormat.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GenerateDPK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateKITest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
@@ -1047,27 +1173,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GenerateRandomKey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-675">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateRandomKeyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/KeyType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -1096,13 +1201,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateMPKTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -1138,13 +1236,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/ExportKeyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -1190,23 +1281,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateDPKTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/utils/HexBinaryConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="637">
-          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/DecryptTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -1228,47 +1302,173 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/connection/HSMConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="8" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/Decrypt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/HsmMsg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1292">
+          <caret line="78" column="45" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/TestDriver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/HsmMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.xml.bind/javax/xml/bind/DatatypeConverterInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="242" column="18" selection-start-line="242" selection-start-column="18" selection-end-line="242" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.xml.bind/javax/xml/bind/DatatypeConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="354" column="24" selection-start-line="354" selection-start-column="24" selection-end-line="354" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/utils/HexBinaryConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3465">
+          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="98" column="9" lean-forward="true" selection-start-line="98" selection-start-column="9" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="297" lean-forward="true" selection-start-line="297" selection-end-line="297" />
+          <folding>
+            <element signature="e#2922#2923#0" expanded="true" />
+            <element signature="e#2966#2967#0" expanded="true" />
+            <element signature="e#11040#11204#0" expanded="true" />
+            <element signature="e#11203#11204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateMPKTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/ExportKeyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/HSMStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/HSMStatusTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="374">
+          <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/connection/HSMConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/KeyType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GenerateDPK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="37" />
+          <folding>
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateDPKTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/avantir/gemalto/hsm/client/GenerateRandomKeyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/avantir/gemalto/hsm/client/messages/GenerateRandomKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>

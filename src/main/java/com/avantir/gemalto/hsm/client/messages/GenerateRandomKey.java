@@ -39,7 +39,7 @@ public class GenerateRandomKey extends HsmMsg {
 
         String request = header + body;
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
-        baos.write(DatatypeConverter.parseHexBinary(request));
+        baos.write(request.getBytes());
 
         byte[] request_data = baos.toByteArray();
         ByteArrayOutputStream raw_data = new ByteArrayOutputStream();

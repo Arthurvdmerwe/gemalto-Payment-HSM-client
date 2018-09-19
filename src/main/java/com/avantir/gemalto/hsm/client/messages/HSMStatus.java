@@ -44,7 +44,7 @@ public class HSMStatus extends HsmMsg {
 
         String request = header + body;
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
-        baos.write(DatatypeConverter.parseHexBinary(request));
+        baos.write(request.getBytes());
 
         byte[] request_data = baos.toByteArray();
         ByteArrayOutputStream raw_data = new ByteArrayOutputStream();
@@ -56,7 +56,7 @@ public class HSMStatus extends HsmMsg {
     public void unpack(byte[] data){
         responseData = data;
         super.unpack(data);
-//        String str_recvd = hexBinaryConverter.fromBinary2Hex(data);
+        String str_recvd = hexBinaryConverter.fromBinary2Hex(data);
 
         if("00".equalsIgnoreCase(errorCode)){
 
