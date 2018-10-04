@@ -20,7 +20,7 @@ public final class HSMConnection {
 
     public HSMConnection(){
         this.host = "10.10.20.15";
-        this.port = 5100;
+        this.port = 5600;
         this.connectTimeout = 1000;
         this.receiveTimeout = 20000;
     }
