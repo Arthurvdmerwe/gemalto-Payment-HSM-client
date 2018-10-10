@@ -20,13 +20,13 @@ Card Issuance
 * KMC - Master Personalisation Key
 
 
-* NIBSS KEK Under Gemalto HSM
-Clear NIBSS: DAEFCBCDB5200876ADE63B1C863DA49E
--- Component 1 - 0723CD4CDDF25A1F8F3517EEABE482C9, E2AC18
+ * NIBSS KEK Under Gemalto HSM
+ Clear NIBSS: DAEFCBCDB5200876ADE63B1C863DA49E
+ -- Component 1 - 0723CD4CDDF25A1F8F3517EEABE482C9, E2AC18
  -- Component 2 - 227A6A90957517C2E22CBC934EC55187, 1E656F
  -- Clear ZMK - 2559A7DC48874DDD6D19AB7DE521D34E, 7FF5B8
-----------------
-KVC of Plain Text Key   : 7FF5B8
+ ----------------
+ KVC of Plain Text Key   : 7FF5B8
  Encryption Key          : KM variant 10
  Length of Key Specifier : x11
  Key Specifier
