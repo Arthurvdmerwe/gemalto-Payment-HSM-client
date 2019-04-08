@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'com.avantir'
+group 'AusPayNet'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
